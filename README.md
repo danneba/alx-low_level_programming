@@ -32,7 +32,7 @@ working in the C language. The specific list of projects contained follows:
 
 ## Author 🏴✒️
 
-* __Anteneh Kassaw Bizuneh__ <[Anteneh2121](https://github.com/Anteneh2121)>
+* __Daniel Kassahun__ <[danneba](https://github.com/danneba)>
 
 ## Acknowledgements 🙏:
 
